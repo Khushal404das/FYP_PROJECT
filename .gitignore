@@ -1,0 +1,30 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large media & archive files (exceeding GitHub limit)
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.zip
+*.tar.gz
+*.tar
+*.rar
+archive.zip
+
+# Large binary data dumps & raw image datasets
+*.npy
+Dataset_yolo_formate/
+Final/Dataset_yolo_formate/
+
+# Python / IDE / OS artifacts
+.venv/
+venv/
+ENV/
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

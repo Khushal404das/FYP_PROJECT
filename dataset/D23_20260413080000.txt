@@ -1,0 +1,390 @@
+***************************************************************
+*                                                             *
+* Copyright Hikvision Digital Technology Co., Ltd.            *
+*                                                             *
+***************************************************************
+
+16 logs output
+
+
+User: admin Date:14/04/2026 Time: 12:59:58 made video export from device 1620210701CCRRG28622014WCVU
+
+
+----------------------------
+1     2026-04-13 08:05:58
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+D1 Len: 23756720 R: 2489404 W: 2661088 Time: 13-04-2026 08:05:58
+D2 Len: 6514740 R: 2042804 W: 2202996 Time: 13-04-2026 08:05:58
+D3 Len: 15074992 R: 1484952 W: 1715440 Time: 13-04-2026 08:05:58
+D4 Len: 12247068 R: 52488 W: 259144 Time: 13-04-2026 08:05:58
+D5 Len: 16120044 R: 3199648 W: 3647660 Time: 13-04-2026 08:05:58
+D6 Len: 14758432 R: 3355036 W: 3624572 Time: 13-04-2026 08:05:58
+D7 Len: 2399120 R: 828500 W: 839644 Time: 13-04-2026 08:05:58
+D8 Len: 25460200 R: 3960824 W: 31128 Time: 13-04-2026 08:05:58
+D9 Len: 10397808 R: 3853168 W: 4026580 Time: 13-04-2026 08:05:58
+D10 Len: 19477780 R: 980040 W: 1116164 Time: 13-04-2026 08:05:58
+D11 Len: 10081780 R: 519508 W: 968100 Time: 13-04-2026 08:05:58
+D12 Len: 42073772 R: 552856 W: 1007240 Time: 13-04-2026 08:05:58
+D13 Len: 30721372 R: 19756 W: 210460 Time: 13-04-2026 08:05:58
+D14 Len: 30214064 R: 4158812 W: 395656 Time: 13-04-2026 08:05:58
+D15 Len: 36549064 R: 538132 W: 1227768 Time: 13-04-2026 08:05:58
+D16 Len: 30825476 R: 1206200 W: 1685580 Time: 13-04-2026 08:05:58
+D17 Len: 34392152 R: 1820112 W: 2388936 Time: 13-04-2026 08:05:58
+D18 Len: 44258396 R: 3598612 W: 3750812 Time: 13-04-2026 08:05:58
+D19 Len: 32381604 R: 3734872 W: 3898952 Time: 13-04-2026 08:05:58
+D20 Len: 36519296 R: 3311232 W: 3754596 Time: 13-04-2026 08:05:58
+D21 Len: 19198204 R: 1283816 W: 1530052 Time: 13-04-2026 08:05:58
+D22 Len: 27548140 R: 2831164 W: 3005068 Time: 13-04-2026 08:05:58
+D23 Len: 113377964 R: 307932 W: 736532 Time: 13-04-2026 08:05:58
+D24 Len: 26530668 R: 4018092 W: 133120 Time: 13-04-2026 08:05:58
+D25 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D26 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D27 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D28 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D29 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D30 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D31 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D32 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+2     2026-04-13 08:05:58
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 0%
+Sys: 0%
+Iowait: 0%
+Soft: 2%
+Idle: 97%
+Total memory: 1130.18MB
+Free memory: 626.66MB
+Buffer: 72KB
+Cached: 0KB
+Main output: VGA(3)
+Main output status: 11
+Main output screen-division: 0
+Enable main output screensaver: 1
+Aux output: HDMI(2)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 1
+Current output: 3
+Motherboard temperature: 127
+DSP status: 
+CPU Temperature: 0
+Flash write frequency: 0
+
+
+
+----------------------------
+3     2026-04-13 08:15:57
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+D1 Len: 28470736 R: 1599532 W: 1771696 Time: 13-04-2026 08:15:57
+D2 Len: 8282424 R: 1960864 W: 2096812 Time: 13-04-2026 08:15:57
+D3 Len: 14837184 R: 3734832 W: 3969712 Time: 13-04-2026 08:15:57
+D4 Len: 12514092 R: 4187552 W: 190324 Time: 13-04-2026 08:15:57
+D5 Len: 17470140 R: 60696 W: 146280 Time: 13-04-2026 08:15:57
+D6 Len: 18018360 R: 394920 W: 671412 Time: 13-04-2026 08:15:57
+D7 Len: 2439568 R: 3267484 W: 3279212 Time: 13-04-2026 08:15:57
+D8 Len: 24081064 R: 3014984 W: 3140672 Time: 13-04-2026 08:15:57
+D9 Len: 10532720 R: 1814744 W: 1976388 Time: 13-04-2026 08:15:57
+D10 Len: 20636428 R: 186240 W: 781072 Time: 13-04-2026 08:15:57
+D11 Len: 11199816 R: 3732328 W: 3779308 Time: 13-04-2026 08:15:57
+D12 Len: 38074168 R: 864100 W: 1332672 Time: 13-04-2026 08:15:57
+D13 Len: 29737488 R: 398280 W: 587820 Time: 13-04-2026 08:15:57
+D14 Len: 30219404 R: 816980 W: 1254932 Time: 13-04-2026 08:15:57
+D15 Len: 35282140 R: 2258292 W: 2955476 Time: 13-04-2026 08:15:57
+D16 Len: 37481552 R: 734604 W: 1418396 Time: 13-04-2026 08:15:57
+D17 Len: 30749776 R: 3281936 W: 3778584 Time: 13-04-2026 08:15:57
+D18 Len: 44376528 R: 1542012 W: 1989996 Time: 13-04-2026 08:15:57
+D19 Len: 34417484 R: 144916 W: 567700 Time: 13-04-2026 08:15:57
+D20 Len: 38475420 R: 61748 W: 286976 Time: 13-04-2026 08:15:57
+D21 Len: 26815152 R: 3061572 W: 3179380 Time: 13-04-2026 08:15:57
+D22 Len: 27048080 R: 517948 W: 693020 Time: 13-04-2026 08:15:57
+D23 Len: 129970628 R: 288356 W: 683736 Time: 13-04-2026 08:15:57
+D24 Len: 29350844 R: 4009968 W: 123836 Time: 13-04-2026 08:15:57
+D25 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D26 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D27 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D28 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D29 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D30 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D31 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D32 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+4     2026-04-13 08:15:57
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 0%
+Sys: 0%
+Iowait: 0%
+Soft: 0%
+Idle: 100%
+Total memory: 1130.18MB
+Free memory: 626.74MB
+Buffer: 92KB
+Cached: 0KB
+Main output: VGA(3)
+Main output status: 11
+Main output screen-division: 0
+Enable main output screensaver: 1
+Aux output: HDMI(2)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 1
+Current output: 3
+Motherboard temperature: 127
+DSP status: 
+CPU Temperature: 0
+Flash write frequency: 0
+
+
+
+----------------------------
+5     2026-04-13 08:22:17
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+6     2026-04-13 08:22:21
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+7     2026-04-13 08:23:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+8     2026-04-13 08:23:08
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+9     2026-04-13 08:25:17
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+10    2026-04-13 08:25:58
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+D1 Len: 31384908 R: 3627276 W: 3796476 Time: 13-04-2026 08:25:58
+D2 Len: 9354384 R: 2979000 W: 3062588 Time: 13-04-2026 08:25:58
+D3 Len: 15250148 R: 2202440 W: 2442644 Time: 13-04-2026 08:25:58
+D4 Len: 14877176 R: 2282056 W: 2484588 Time: 13-04-2026 08:25:58
+D5 Len: 26055272 R: 945376 W: 1035728 Time: 13-04-2026 08:25:58
+D6 Len: 20581604 R: 3928788 W: 281496 Time: 13-04-2026 08:25:58
+D7 Len: 2353508 R: 1426096 W: 1438416 Time: 13-04-2026 08:25:58
+D8 Len: 24869056 R: 2691904 W: 2843904 Time: 13-04-2026 08:25:58
+D9 Len: 10375772 R: 3791512 W: 3963552 Time: 13-04-2026 08:25:58
+D10 Len: 20180600 R: 3786264 W: 4184456 Time: 13-04-2026 08:25:58
+D11 Len: 15272960 R: 2156444 W: 2275052 Time: 13-04-2026 08:25:58
+D12 Len: 38936844 R: 2245784 W: 2520780 Time: 13-04-2026 08:25:58
+D13 Len: 31250204 R: 2258484 W: 2477896 Time: 13-04-2026 08:25:57
+D14 Len: 33196036 R: 396068 W: 896536 Time: 13-04-2026 08:25:58
+D15 Len: 35548260 R: 520200 W: 755000 Time: 13-04-2026 08:25:58
+D16 Len: 40388988 R: 3359876 W: 4058648 Time: 13-04-2026 08:25:58
+D17 Len: 39046232 R: 343220 W: 881776 Time: 13-04-2026 08:25:58
+D18 Len: 48014160 R: 3655392 W: 3866812 Time: 13-04-2026 08:25:58
+D19 Len: 37642044 R: 109856 W: 461008 Time: 13-04-2026 08:25:58
+D20 Len: 40416768 R: 2723604 W: 2955008 Time: 13-04-2026 08:25:58
+D21 Len: 27311080 R: 1011044 W: 1130332 Time: 13-04-2026 08:25:58
+D22 Len: 28733632 R: 3862904 W: 66524 Time: 13-04-2026 08:25:58
+D23 Len: 166546072 R: 3161624 W: 3651952 Time: 13-04-2026 08:25:58
+D24 Len: 32094916 R: 2511404 W: 2858624 Time: 13-04-2026 08:25:58
+D25 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D26 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D27 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D28 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D29 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D30 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D31 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D32 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+11    2026-04-13 08:25:58
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 0%
+Sys: 0%
+Iowait: 0%
+Soft: 0%
+Idle: 100%
+Total memory: 1130.18MB
+Free memory: 626.83MB
+Buffer: 72KB
+Cached: 0KB
+Main output: VGA(3)
+Main output status: 11
+Main output screen-division: 0
+Enable main output screensaver: 1
+Aux output: HDMI(2)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 1
+Current output: 3
+Motherboard temperature: 127
+DSP status: 
+CPU Temperature: 0
+Flash write frequency: 0
+
+
+
+----------------------------
+12    2026-04-13 08:26:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+13    2026-04-13 08:28:16
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+14    2026-04-13 08:29:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+15    2026-04-13 08:31:16
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+16    2026-04-13 08:32:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+
+
+********************** LOG  END*************************
+
+

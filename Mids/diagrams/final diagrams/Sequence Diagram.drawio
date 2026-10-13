@@ -1,0 +1,194 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.6">
+  <diagram name="Sequence Diagram" id="Rj1pWytfXB0RCw_Z4nwa">
+    <mxGraphModel dx="872" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-3" parent="1" style="rounded=0;html=1;fontStyle=1;fontSize=10;fillColor=#ffffff;strokeColor=#000000;align=center;" value="Detection Module" vertex="1">
+          <mxGeometry height="36" width="140" x="320" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-4" parent="1" style="rounded=0;html=1;fontStyle=1;fontSize=10;fillColor=#ffffff;strokeColor=#000000;align=center;" value="ReID Module" vertex="1">
+          <mxGeometry height="36" width="140" x="490" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-5" parent="1" style="rounded=0;html=1;fontStyle=1;fontSize=10;fillColor=#ffffff;strokeColor=#000000;align=center;" value="Switch Engine" vertex="1">
+          <mxGeometry height="36" width="140" x="660" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-6" parent="1" style="rounded=0;html=1;fontStyle=1;fontSize=10;fillColor=#ffffff;strokeColor=#000000;align=center;" value="Live ViewUI" vertex="1">
+          <mxGeometry height="36" width="140" x="830" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-7" parent="1" style="rounded=0;html=1;fontStyle=1;fontSize=10;fillColor=#ffffff;strokeColor=#000000;align=center;" value="Output Module" vertex="1">
+          <mxGeometry height="36" width="140" x="1000" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-8" edge="1" parent="1" source="mgomKuN-pyUKJRNB1W1t-34" style="dashed=1;endArrow=none;startArrow=none;strokeColor=#000000;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="56" as="sourcePoint" />
+            <mxPoint x="70" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-9" edge="1" parent="1" style="dashed=1;endArrow=none;startArrow=none;strokeColor=#000000;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="90" as="sourcePoint" />
+            <mxPoint x="220" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-10" edge="1" parent="1" style="dashed=1;endArrow=none;startArrow=none;strokeColor=#000000;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="56" as="sourcePoint" />
+            <mxPoint x="390" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-11" edge="1" parent="1" style="dashed=1;endArrow=none;startArrow=none;strokeColor=#000000;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="56" as="sourcePoint" />
+            <mxPoint x="560" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-12" edge="1" parent="1" style="dashed=1;endArrow=none;startArrow=none;strokeColor=#000000;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="56" as="sourcePoint" />
+            <mxPoint x="730" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-13" edge="1" parent="1" style="dashed=1;endArrow=none;startArrow=none;strokeColor=#000000;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="56" as="sourcePoint" />
+            <mxPoint x="900" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-14" edge="1" parent="1" style="dashed=1;endArrow=none;startArrow=none;strokeColor=#000000;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="56" as="sourcePoint" />
+            <mxPoint x="1070" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-15" edge="1" parent="1" style="endArrow=block;endFill=1;startArrow=none;strokeColor=#000000;fontSize=10;" value="captureFrame()">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="110" as="sourcePoint" />
+            <mxPoint x="380" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-16" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=1;startArrow=none;strokeColor=#000000;fontSize=10;" value="detectVehicle() &#xa;assignTrackID()">
+          <mxGeometry relative="1" x="-0.1538" y="16" as="geometry">
+            <mxPoint x="-1" y="-5" as="offset" />
+            <Array as="points">
+              <mxPoint x="451" y="155" />
+              <mxPoint x="451" y="175" />
+            </Array>
+            <mxPoint x="396" y="155" as="sourcePoint" />
+            <mxPoint x="396" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-17" edge="1" parent="1" style="endArrow=block;endFill=1;startArrow=none;strokeColor=#000000;fontSize=10;entryX=0;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;" target="mgomKuN-pyUKJRNB1W1t-30" value="extractFeatures(crop)">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="210" as="sourcePoint" />
+            <mxPoint x="560" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-18" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=1;startArrow=none;strokeColor=#000000;fontSize=10;" value="matchEmbeddings() &#xa;assignGlobalID()">
+          <mxGeometry relative="1" x="-0.0769" y="15" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="621" y="252" />
+              <mxPoint x="621" y="272" />
+            </Array>
+            <mxPoint x="566" y="252" as="sourcePoint" />
+            <mxPoint x="566" y="272" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-19" edge="1" parent="1" style="endArrow=block;endFill=1;startArrow=none;strokeColor=#000000;fontSize=10;" value="scoreAllCameras(scores)">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="310" as="sourcePoint" />
+            <mxPoint x="720" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-20" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=1;startArrow=none;strokeColor=#000000;fontSize=10;" value="computeScores() &#xa;DBN_selectBest()">
+          <mxGeometry relative="1" x="-0.2" y="15" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="785" y="355" />
+              <mxPoint x="785" y="375" />
+            </Array>
+            <mxPoint x="730" y="355" as="sourcePoint" />
+            <mxPoint x="740" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-21" edge="1" parent="1" style="endArrow=block;endFill=1;startArrow=none;strokeColor=#000000;fontSize=10;entryX=0.167;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;" target="mgomKuN-pyUKJRNB1W1t-32" value="switchFeed(bestCamera)">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="410" as="sourcePoint" />
+            <mxPoint x="890" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-22" edge="1" parent="1" style="endArrow=block;endFill=1;startArrow=none;strokeColor=#000000;fontSize=10;" value="displayFeed()">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="455" as="sourcePoint" />
+            <mxPoint x="70" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontStyle=0;fontSize=10;verticalAlign=top;align=left;spacingLeft=5;" value="loop [car still in network]" vertex="1">
+          <mxGeometry height="60" width="285" x="155" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-24" edge="1" parent="1" style="endArrow=block;endFill=1;startArrow=none;strokeColor=#000000;fontSize=10;" value="nextFrame()">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="510" as="sourcePoint" />
+            <mxPoint x="390" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-25" edge="1" parent="1" style="endArrow=block;endFill=1;startArrow=none;strokeColor=#000000;fontSize=10;entryX=0;entryY=0.079;entryDx=0;entryDy=0;entryPerimeter=0;" target="mgomKuN-pyUKJRNB1W1t-33" value="requestFullVideo(vehicleID)">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="575" as="sourcePoint" />
+            <mxPoint x="1060" y="575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-26" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=1;startArrow=none;strokeColor=#000000;fontSize=10;" value="stitchClips(clipList)">
+          <mxGeometry relative="1" x="-0.1538" y="10" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1130" y="620" />
+              <mxPoint x="1130" y="640" />
+            </Array>
+            <mxPoint x="1075" y="620" as="sourcePoint" />
+            <mxPoint x="1075" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-27" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=1;startArrow=none;strokeColor=#000000;fontSize=10;" value="sendEmail(recipient, videoPath)">
+          <mxGeometry relative="1" x="-0.137" y="20" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1140" y="660" />
+              <mxPoint x="1140" y="680" />
+            </Array>
+            <mxPoint x="1077" y="660" as="sourcePoint" />
+            <mxPoint x="1077" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-28" edge="1" parent="1" style="endArrow=block;endFill=1;startArrow=none;strokeColor=#000000;fontSize=10;" value="videoDelivered(confirmed)">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="710" as="sourcePoint" />
+            <mxPoint x="70" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-29" parent="1" style="rounded=0;html=1;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="370" width="12" x="384" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-30" parent="1" style="rounded=0;html=1;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="260" width="12" x="554" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-31" parent="1" style="rounded=0;html=1;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="160" width="12" x="724" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-32" parent="1" style="rounded=0;html=1;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="70" width="12" x="894" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-33" parent="1" style="rounded=0;html=1;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="165" width="12" x="1064" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-34" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Operator" vertex="1">
+          <mxGeometry height="60" width="30" x="55" y="8" as="geometry" />
+        </mxCell>
+        <mxCell id="mgomKuN-pyUKJRNB1W1t-35" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="CameraNetwork" vertex="1">
+          <mxGeometry height="60" width="30" x="210" y="8" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

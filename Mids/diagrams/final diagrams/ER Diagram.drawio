@@ -1,0 +1,145 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.6">
+  <diagram name="ER Diagram" id="-kfPXCm8x8RwHZEHfO8U">
+    <mxGraphModel dx="872" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-1" parent="1" style="group;" value="" vertex="1">
+          <mxGeometry height="138" width="185" x="50" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-2" parent="fKoOdTCtx_fVi3Dg0_J2-1" style="rounded=0;html=1;fontStyle=1;fontSize=11;fillColor=#ffffff;strokeColor=#000000;align=center;" value="CAMERA" vertex="1">
+          <mxGeometry height="28" width="185" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-3" parent="fKoOdTCtx_fVi3Dg0_J2-1" style="rounded=0;html=1;fontSize=10;fillColor=#ffffff;strokeColor=#000000;align=left;spacingLeft=8;verticalAlign=top;" value="PK  CameraID&lt;br/&gt;      Location&lt;br/&gt;      Resolution&lt;br/&gt;      IPAddress&lt;br/&gt;      Status&lt;br/&gt;      FieldOfView" vertex="1">
+          <mxGeometry height="110" width="185" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-4" parent="1" style="group;" value="" vertex="1">
+          <mxGeometry height="138" width="185" x="330" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-5" parent="fKoOdTCtx_fVi3Dg0_J2-4" style="rounded=0;html=1;fontStyle=1;fontSize=11;fillColor=#ffffff;strokeColor=#000000;align=center;" value="TRACK" vertex="1">
+          <mxGeometry height="28" width="185" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-6" parent="fKoOdTCtx_fVi3Dg0_J2-4" style="rounded=0;html=1;fontSize=10;fillColor=#ffffff;strokeColor=#000000;align=left;spacingLeft=8;verticalAlign=top;" value="PK  TrackID&lt;br/&gt;FK  CameraID&lt;br/&gt;FK  VehicleID&lt;br/&gt;      StartTime&lt;br/&gt;      EndTime&lt;br/&gt;      BBoxData" vertex="1">
+          <mxGeometry height="110" width="185" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-7" parent="1" style="group;" value="" vertex="1">
+          <mxGeometry height="138" width="185" x="610" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-8" parent="fKoOdTCtx_fVi3Dg0_J2-7" style="rounded=0;html=1;fontStyle=1;fontSize=11;fillColor=#ffffff;strokeColor=#000000;align=center;" value="VEHICLE" vertex="1">
+          <mxGeometry height="28" width="185" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-9" parent="fKoOdTCtx_fVi3Dg0_J2-7" style="rounded=0;html=1;fontSize=10;fillColor=#ffffff;strokeColor=#000000;align=left;spacingLeft=8;verticalAlign=top;" value="PK  VehicleID&lt;br/&gt;      GlobalTrackID&lt;br/&gt;      Color&lt;br/&gt;      PlateNumber&lt;br/&gt;      FirstSeen&lt;br/&gt;      LastSeen" vertex="1">
+          <mxGeometry height="110" width="185" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-10" parent="1" style="group;" value="" vertex="1">
+          <mxGeometry height="155" width="185" x="50" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-11" parent="fKoOdTCtx_fVi3Dg0_J2-10" style="rounded=0;html=1;fontStyle=1;fontSize=11;fillColor=#ffffff;strokeColor=#000000;align=center;" value="CLIP" vertex="1">
+          <mxGeometry height="28" width="185" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-12" parent="fKoOdTCtx_fVi3Dg0_J2-10" style="rounded=0;html=1;fontSize=10;fillColor=#ffffff;strokeColor=#000000;align=left;spacingLeft=8;verticalAlign=top;" value="PK  ClipID&lt;br/&gt;FK  CameraID&lt;br/&gt;FK  TrackID&lt;br/&gt;      StartTime&lt;br/&gt;      EndTime&lt;br/&gt;      FilePath&lt;br/&gt;      Resolution" vertex="1">
+          <mxGeometry height="127" width="185" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-13" parent="1" style="group;" value="" vertex="1">
+          <mxGeometry height="104" width="205" x="320.5" y="338.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-14" parent="fKoOdTCtx_fVi3Dg0_J2-13" style="rounded=0;html=1;fontStyle=1;fontSize=11;fillColor=#ffffff;strokeColor=#000000;align=center;" value="FEATURE_EMBEDDING" vertex="1">
+          <mxGeometry height="28" width="205" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-15" parent="fKoOdTCtx_fVi3Dg0_J2-13" style="rounded=0;html=1;fontSize=10;fillColor=#ffffff;strokeColor=#000000;align=left;spacingLeft=8;verticalAlign=top;" value="PK  EmbeddingID&lt;br/&gt;FK  TrackID&lt;br/&gt;      FeatureVector&lt;br/&gt;      Timestamp" vertex="1">
+          <mxGeometry height="76" width="205" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-16" edge="1" parent="1" source="fKoOdTCtx_fVi3Dg0_J2-1" style="endArrow=ERmany;startArrow=ERone;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="fKoOdTCtx_fVi3Dg0_J2-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-17" parent="1" style="text;html=1;fontSize=15;strokeColor=none;fillColor=none;" value="1" vertex="1">
+          <mxGeometry height="20" width="16" x="239" y="108" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-19" edge="1" parent="1" source="fKoOdTCtx_fVi3Dg0_J2-7" style="endArrow=ERmany;startArrow=ERone;strokeColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="fKoOdTCtx_fVi3Dg0_J2-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-20" parent="1" style="text;html=1;fontSize=15;strokeColor=none;fillColor=none;" value="1" vertex="1">
+          <mxGeometry height="20" width="16" x="593" y="108" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-22" parent="1" style="text;html=1;fontSize=15;strokeColor=none;fillColor=none;" value="1" vertex="1">
+          <mxGeometry height="20" width="16" x="675" y="198" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-24" edge="1" parent="1" source="fKoOdTCtx_fVi3Dg0_J2-4" style="endArrow=ERmany;startArrow=ERone;strokeColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fKoOdTCtx_fVi3Dg0_J2-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-25" parent="1" style="text;html=1;fontSize=15;strokeColor=none;fillColor=none;" value="1" vertex="1">
+          <mxGeometry height="20" width="16" x="410" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-27" edge="1" parent="1" source="fKoOdTCtx_fVi3Dg0_J2-1" style="endArrow=ERmany;startArrow=ERone;strokeColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fKoOdTCtx_fVi3Dg0_J2-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-28" parent="1" style="text;html=1;fontSize=15;strokeColor=none;fillColor=none;" value="1" vertex="1">
+          <mxGeometry height="20" width="16" x="128" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-30" edge="1" parent="1" source="fKoOdTCtx_fVi3Dg0_J2-4" style="edgeStyle=orthogonalEdgeStyle;endArrow=ERmany;startArrow=ERone;strokeColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;rounded=0;curved=0;" target="fKoOdTCtx_fVi3Dg0_J2-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="124" />
+              <mxPoint x="273" y="124" />
+              <mxPoint x="273" y="430" />
+            </Array>
+            <mxPoint x="240" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-31" parent="1" style="text;html=1;fontSize=15;strokeColor=none;fillColor=none;" value="1" vertex="1">
+          <mxGeometry height="20" width="16" x="273" y="134" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-32" parent="1" style="text;html=1;fontSize=12;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="16" x="131" y="306" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-33" parent="1" style="text;html=1;fontSize=15;strokeColor=none;fillColor=none;" value="1" vertex="1">
+          <mxGeometry height="20" width="16" x="685" y="423" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-34" parent="1" style="text;html=1;fontSize=15;strokeColor=none;fillColor=none;" value="1" vertex="1">
+          <mxGeometry height="20" width="16" x="685" y="477" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-35" parent="1" style="group;" value="" vertex="1">
+          <mxGeometry height="121" width="205" x="600" y="302" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-36" parent="fKoOdTCtx_fVi3Dg0_J2-35" style="rounded=0;html=1;fontStyle=1;fontSize=11;fillColor=#ffffff;strokeColor=#000000;align=center;" value="VIDEO_REQUEST" vertex="1">
+          <mxGeometry height="28" width="205" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-37" parent="fKoOdTCtx_fVi3Dg0_J2-35" style="rounded=0;html=1;fontSize=10;fillColor=#ffffff;strokeColor=#000000;align=left;spacingLeft=8;verticalAlign=top;" value="PK  RequestID&lt;br/&gt;FK  VehicleID&lt;br/&gt;      RequestTime&lt;br/&gt;      RecipientEmail&lt;br/&gt;      Status" vertex="1">
+          <mxGeometry height="93" width="205" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-38" parent="1" style="group;" value="" vertex="1">
+          <mxGeometry height="121" width="205" x="600" y="497" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-39" parent="fKoOdTCtx_fVi3Dg0_J2-38" style="rounded=0;html=1;fontStyle=1;fontSize=11;fillColor=#ffffff;strokeColor=#000000;align=center;" value="NOTIFICATION" vertex="1">
+          <mxGeometry height="28" width="205" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-40" parent="fKoOdTCtx_fVi3Dg0_J2-38" style="rounded=0;html=1;fontSize=10;fillColor=#ffffff;strokeColor=#000000;align=left;spacingLeft=8;verticalAlign=top;" value="PK  NotificationID&lt;br/&gt;FK  RequestID&lt;br/&gt;      SentTime&lt;br/&gt;      VideoPath&lt;br/&gt;      Status" vertex="1">
+          <mxGeometry height="93" width="205" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-41" edge="1" parent="1" style="endArrow=ERmany;startArrow=ERone;strokeColor=#000000;" target="fKoOdTCtx_fVi3Dg0_J2-36" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-42" edge="1" parent="1" source="fKoOdTCtx_fVi3Dg0_J2-35" style="endArrow=ERone;startArrow=ERone;strokeColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fKoOdTCtx_fVi3Dg0_J2-38" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-45" parent="1" style="text;html=1;fontSize=12;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="16" x="244" y="403" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-46" parent="1" style="text;html=1;fontSize=12;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="16" x="409" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-47" parent="1" style="text;html=1;fontSize=12;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="16" x="314" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-48" parent="1" style="text;html=1;fontSize=12;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="16" x="525.5" y="108" as="geometry" />
+        </mxCell>
+        <mxCell id="fKoOdTCtx_fVi3Dg0_J2-49" parent="1" style="text;html=1;fontSize=12;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="16" x="674" y="282" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

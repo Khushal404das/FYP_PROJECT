@@ -1,0 +1,1324 @@
+***************************************************************
+*                                                             *
+* Copyright Hikvision Digital Technology Co., Ltd.            *
+*                                                             *
+***************************************************************
+
+73 logs output
+
+
+User: admin Date:14/04/2026 Time: 13:02:30 made video export from device 1620210701CCRRG28622014WCVU
+
+
+----------------------------
+1     2026-04-13 08:34:16
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+2     2026-04-13 08:34:17
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+3     2026-04-13 08:35:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+4     2026-04-13 08:35:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+5     2026-04-13 08:35:58
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+D1 Len: 28852604 R: 3166508 W: 3288952 Time: 13-04-2026 08:35:58
+D2 Len: 8447632 R: 2980036 W: 3121612 Time: 13-04-2026 08:35:58
+D3 Len: 15357276 R: 753832 W: 1022704 Time: 13-04-2026 08:35:58
+D4 Len: 12960596 R: 2664060 W: 2862272 Time: 13-04-2026 08:35:58
+D5 Len: 23179496 R: 3130968 W: 3243704 Time: 13-04-2026 08:35:58
+D6 Len: 11900940 R: 3211080 W: 3793828 Time: 13-04-2026 08:35:58
+D7 Len: 2420816 R: 3843604 W: 3859232 Time: 13-04-2026 08:35:58
+D8 Len: 24519520 R: 2069448 W: 2197600 Time: 13-04-2026 08:35:58
+D9 Len: 10714328 R: 1927468 W: 2094968 Time: 13-04-2026 08:35:58
+D10 Len: 21266900 R: 3851840 W: 285532 Time: 13-04-2026 08:35:58
+D11 Len: 22375176 R: 3627944 W: 3678708 Time: 13-04-2026 08:35:58
+D12 Len: 46744024 R: 2891584 W: 3127460 Time: 13-04-2026 08:35:58
+D13 Len: 31188168 R: 4111020 W: 111632 Time: 13-04-2026 08:35:58
+D14 Len: 31661240 R: 2764516 W: 3197648 Time: 13-04-2026 08:35:58
+D15 Len: 37443816 R: 4191660 W: 450080 Time: 13-04-2026 08:35:58
+D16 Len: 39325332 R: 748084 W: 1440940 Time: 13-04-2026 08:35:58
+D17 Len: 43139764 R: 1574752 W: 2078500 Time: 13-04-2026 08:35:58
+D18 Len: 40040064 R: 1792880 W: 1963836 Time: 13-04-2026 08:35:58
+D19 Len: 38711628 R: 1268932 W: 1423900 Time: 13-04-2026 08:35:58
+D20 Len: 48977804 R: 1358060 W: 1601164 Time: 13-04-2026 08:35:58
+D21 Len: 44856328 R: 3930124 W: 4043620 Time: 13-04-2026 08:35:58
+D22 Len: 29989352 R: 347916 W: 695748 Time: 13-04-2026 08:35:58
+D23 Len: 156047412 R: 4044656 W: 315812 Time: 13-04-2026 08:35:58
+D24 Len: 28172976 R: 1344676 W: 1671472 Time: 13-04-2026 08:35:58
+D25 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D26 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D27 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D28 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D29 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D30 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D31 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D32 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+6     2026-04-13 08:35:58
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 0%
+Sys: 0%
+Iowait: 0%
+Soft: 2%
+Idle: 97%
+Total memory: 1130.18MB
+Free memory: 626.52MB
+Buffer: 64KB
+Cached: 0KB
+Main output: VGA(3)
+Main output status: 11
+Main output screen-division: 0
+Enable main output screensaver: 1
+Aux output: HDMI(2)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 1
+Current output: 3
+Motherboard temperature: 127
+DSP status: 
+CPU Temperature: 0
+Flash write frequency: 0
+
+
+
+----------------------------
+7     2026-04-13 08:37:16
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+8     2026-04-13 08:37:37
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Logout
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+9     2026-04-13 08:38:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+10    2026-04-13 08:41:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+11    2026-04-13 08:41:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+12    2026-04-13 08:43:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+13    2026-04-13 08:43:50
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+14    2026-04-13 08:44:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+15    2026-04-13 08:45:58
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+D1 Len: 22407736 R: 417208 W: 530864 Time: 13-04-2026 08:45:58
+D2 Len: 5853340 R: 515208 W: 586344 Time: 13-04-2026 08:45:58
+D3 Len: 14857848 R: 3056764 W: 3297640 Time: 13-04-2026 08:45:58
+D4 Len: 12688072 R: 2771584 W: 2967432 Time: 13-04-2026 08:45:58
+D5 Len: 16545948 R: 2917900 W: 3012436 Time: 13-04-2026 08:45:58
+D6 Len: 11166884 R: 1838800 W: 2377800 Time: 13-04-2026 08:45:58
+D7 Len: 2384748 R: 2035960 W: 2049676 Time: 13-04-2026 08:45:58
+D8 Len: 21910396 R: 3004372 W: 3136476 Time: 13-04-2026 08:45:58
+D9 Len: 11121936 R: 436364 W: 633992 Time: 13-04-2026 08:45:58
+D10 Len: 19664608 R: 2578180 W: 3172924 Time: 13-04-2026 08:45:58
+D11 Len: 12019296 R: 3052892 W: 3115092 Time: 13-04-2026 08:45:58
+D12 Len: 42545144 R: 3457180 W: 3729564 Time: 13-04-2026 08:45:58
+D13 Len: 30284568 R: 843160 W: 1036072 Time: 13-04-2026 08:45:58
+D14 Len: 27508368 R: 848612 W: 1345888 Time: 13-04-2026 08:45:58
+D15 Len: 36276020 R: 2701452 W: 3171668 Time: 13-04-2026 08:45:58
+D16 Len: 31825896 R: 3381028 W: 3906708 Time: 13-04-2026 08:45:58
+D17 Len: 43567104 R: 3490964 W: 3702564 Time: 13-04-2026 08:45:58
+D18 Len: 33532072 R: 1471068 W: 1941476 Time: 13-04-2026 08:45:58
+D19 Len: 28174544 R: 68648 W: 238316 Time: 13-04-2026 08:45:58
+D20 Len: 40062896 R: 3427432 W: 3915324 Time: 13-04-2026 08:45:58
+D21 Len: 24067052 R: 2826644 W: 2944848 Time: 13-04-2026 08:45:58
+D22 Len: 28287576 R: 3456508 W: 3817500 Time: 13-04-2026 08:45:58
+D23 Len: 150172944 R: 3172628 W: 3688116 Time: 13-04-2026 08:45:58
+D24 Len: 25955856 R: 2159764 W: 2461504 Time: 13-04-2026 08:45:58
+D25 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D26 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D27 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D28 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D29 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D30 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D31 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D32 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+16    2026-04-13 08:45:58
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 0%
+Sys: 0%
+Iowait: 0%
+Soft: 0%
+Idle: 100%
+Total memory: 1130.18MB
+Free memory: 626.54MB
+Buffer: 60KB
+Cached: 0KB
+Main output: VGA(3)
+Main output status: 11
+Main output screen-division: 0
+Enable main output screensaver: 1
+Aux output: HDMI(2)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 1
+Current output: 3
+Motherboard temperature: 127
+DSP status: 
+CPU Temperature: 0
+Flash write frequency: 0
+
+
+
+----------------------------
+17    2026-04-13 08:46:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+18    2026-04-13 08:47:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+19    2026-04-13 08:47:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+20    2026-04-13 08:49:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+21    2026-04-13 08:49:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+22    2026-04-13 08:50:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+23    2026-04-13 08:52:46
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+24    2026-04-13 08:53:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+25    2026-04-13 08:53:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+26    2026-04-13 08:55:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+27    2026-04-13 08:55:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+28    2026-04-13 08:55:58
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+D1 Len: 16241628 R: 4115596 W: 4189580 Time: 13-04-2026 08:55:58
+D2 Len: 7765848 R: 4082156 W: 4157888 Time: 13-04-2026 08:55:58
+D3 Len: 15422996 R: 1691400 W: 1943420 Time: 13-04-2026 08:55:58
+D4 Len: 12360892 R: 2550516 W: 2745412 Time: 13-04-2026 08:55:58
+D5 Len: 14432512 R: 374220 W: 667732 Time: 13-04-2026 08:55:58
+D6 Len: 11086500 R: 337952 W: 881388 Time: 13-04-2026 08:55:58
+D7 Len: 2366996 R: 207968 W: 222368 Time: 13-04-2026 08:55:58
+D8 Len: 21807000 R: 3839144 W: 3971956 Time: 13-04-2026 08:55:58
+D9 Len: 14155692 R: 2013252 W: 2206772 Time: 13-04-2026 08:55:58
+D10 Len: 17246936 R: 3228260 W: 3642644 Time: 13-04-2026 08:55:58
+D11 Len: 14164776 R: 326568 W: 502652 Time: 13-04-2026 08:55:58
+D12 Len: 46947960 R: 87392 W: 345876 Time: 13-04-2026 08:55:58
+D13 Len: 29709288 R: 1193228 W: 1385232 Time: 13-04-2026 08:55:58
+D14 Len: 28421108 R: 4145480 W: 406868 Time: 13-04-2026 08:55:58
+D15 Len: 35139104 R: 104740 W: 562036 Time: 13-04-2026 08:55:58
+D16 Len: 30821352 R: 670616 W: 1173628 Time: 13-04-2026 08:55:58
+D17 Len: 35674076 R: 992244 W: 1627904 Time: 13-04-2026 08:55:58
+D18 Len: 36233740 R: 223172 W: 426480 Time: 13-04-2026 08:55:58
+D19 Len: 26036520 R: 442968 W: 1109012 Time: 13-04-2026 08:55:58
+D20 Len: 37966308 R: 3699848 W: 4132896 Time: 13-04-2026 08:55:58
+D21 Len: 18205456 R: 13632 W: 178784 Time: 13-04-2026 08:55:58
+D22 Len: 28635184 R: 2730024 W: 3092556 Time: 13-04-2026 08:55:58
+D23 Len: 151416020 R: 3582812 W: 4109192 Time: 13-04-2026 08:55:58
+D24 Len: 25348556 R: 2340308 W: 2644236 Time: 13-04-2026 08:55:58
+D25 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D26 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D27 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D28 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D29 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D30 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D31 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D32 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+29    2026-04-13 08:55:58
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 0%
+Sys: 2%
+Iowait: 2%
+Soft: 0%
+Idle: 95%
+Total memory: 1130.18MB
+Free memory: 626.68MB
+Buffer: 84KB
+Cached: 0KB
+Main output: VGA(3)
+Main output status: 11
+Main output screen-division: 0
+Enable main output screensaver: 1
+Aux output: HDMI(2)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 1
+Current output: 3
+Motherboard temperature: 127
+DSP status: 
+CPU Temperature: 0
+Flash write frequency: 0
+
+
+
+----------------------------
+30    2026-04-13 08:56:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+31    2026-04-13 08:56:27
+----------------------------
+Major Type: Information
+Minor Type: HDD S.M.A.R.T.
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+HDD No.: 1
+
+Hard disk = 1
+Firmware = AV01
+Model     = ST8000VX004-2M1101
+Serial    = WSD75SKJ
+ID  Attribute name                      Flags   Threshold   Value   Worst   Raw Value   Status  
+
+1   Raw Read Error Rate                 f       44          79      64      77151456    OK      
+3   Spin Up Time                        3       0           84      81      0           OK      
+4   Start/Stop Count                    32      20          99      99      1118        OK      
+5   Reallocated Sector Count            33      10          100     100     0           OK      
+7   Seek Error Rate                     f       45          85      60      285506814   OK      
+9   Power-on Hours Count                32      0           69      69      27282       OK      
+a   Spin Up Retry Count                 13      97          100     100     0           OK      
+c   Power Cycle Count                   32      20          99      99      1123        OK      
+12  Unknown Type Value: 18              b       50          100     100     0           OK      
+bb  Reported Uncorrectable Errors       32      0           100     100     0           OK      
+bc  Unknown Type Value: 188             32      0           100     100     0           OK      
+be  Temperature Difference from 100     22      40          54      39      112443785262OK      
+c0  Power Off Retract Count             32      0           100     100     1118        OK      
+c1  Load/Unload Cycle Count             32      0           100     100     1941        OK      
+c2  Power temperature                   22      0           46      61      55834574894 OK      
+c3  ECC on the Fly count                1a      0           79      64      77151456    OK      
+c5  Current Pending Sector Count        12      0           100     100     0           OK      
+c6  Off-line Scan Uncorrect. Sector Count   10      0           100     100     0           OK      
+c7  Ultra ATA CRC Error Rate            3e      0           200     200     1           OK      
+f0  Head Flying Hours                   0       0           100     253     69406671530351OK      
+f1  Unknown Type Value: 241             0       0           100     253     316235341520OK      
+f2  Unknown Type Value: 242             0       0           100     253     492769904   OK      
+
+
+
+----------------------------
+32    2026-04-13 08:58:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+33    2026-04-13 08:59:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+34    2026-04-13 08:59:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+35    2026-04-13 09:01:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+36    2026-04-13 09:01:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+37    2026-04-13 09:02:04
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+38    2026-04-13 09:04:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+39    2026-04-13 09:05:04
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+40    2026-04-13 09:05:04
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+41    2026-04-13 09:05:59
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+D1 Len: 13799208 R: 1139796 W: 1211572 Time: 13-04-2026 09:05:59
+D2 Len: 7743176 R: 3432896 W: 3512456 Time: 13-04-2026 09:05:59
+D3 Len: 15660212 R: 573108 W: 826416 Time: 13-04-2026 09:05:59
+D4 Len: 12888708 R: 2843564 W: 3051208 Time: 13-04-2026 09:05:59
+D5 Len: 16857384 R: 380888 W: 747900 Time: 13-04-2026 09:05:59
+D6 Len: 14274248 R: 2031860 W: 2572724 Time: 13-04-2026 09:05:59
+D7 Len: 2372592 R: 2579760 W: 2594960 Time: 13-04-2026 09:05:59
+D8 Len: 24708352 R: 3372764 W: 3514484 Time: 13-04-2026 09:05:59
+D9 Len: 13306548 R: 2743084 W: 2930408 Time: 13-04-2026 09:05:59
+D10 Len: 14590068 R: 1378912 W: 1455496 Time: 13-04-2026 09:05:59
+D11 Len: 17689440 R: 1026588 W: 1414876 Time: 13-04-2026 09:05:59
+D12 Len: 52979852 R: 2375100 W: 2994080 Time: 13-04-2026 09:05:59
+D13 Len: 30257948 R: 2094984 W: 2283052 Time: 13-04-2026 09:05:59
+D14 Len: 29158204 R: 3684540 W: 204944 Time: 13-04-2026 09:05:59
+D15 Len: 36281112 R: 3034864 W: 3288716 Time: 13-04-2026 09:05:59
+D16 Len: 30037152 R: 1177324 W: 1850652 Time: 13-04-2026 09:05:59
+D17 Len: 32337228 R: 4026284 W: 410700 Time: 13-04-2026 09:05:59
+D18 Len: 34886596 R: 1336620 W: 1758644 Time: 13-04-2026 09:05:59
+D19 Len: 25544824 R: 876608 W: 1488012 Time: 13-04-2026 09:05:59
+D20 Len: 38441732 R: 153992 W: 631588 Time: 13-04-2026 09:05:59
+D21 Len: 17415716 R: 570576 W: 817284 Time: 13-04-2026 09:05:59
+D22 Len: 30425120 R: 3792288 W: 4157548 Time: 13-04-2026 09:05:59
+D23 Len: 171500364 R: 3062508 W: 3643092 Time: 13-04-2026 09:05:59
+D24 Len: 26226632 R: 3399336 W: 3705044 Time: 13-04-2026 09:05:59
+D25 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D26 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D27 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D28 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D29 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D30 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D31 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D32 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+42    2026-04-13 09:05:59
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 2%
+Sys: 0%
+Iowait: 2%
+Soft: 0%
+Idle: 95%
+Total memory: 1130.18MB
+Free memory: 626.47MB
+Buffer: 60KB
+Cached: 0KB
+Main output: VGA(3)
+Main output status: 11
+Main output screen-division: 0
+Enable main output screensaver: 1
+Aux output: HDMI(2)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 1
+Current output: 3
+Motherboard temperature: 127
+DSP status: 
+CPU Temperature: 0
+Flash write frequency: 0
+
+
+
+----------------------------
+43    2026-04-13 09:07:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+44    2026-04-13 09:07:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+45    2026-04-13 09:08:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+46    2026-04-13 09:10:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+47    2026-04-13 09:11:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+48    2026-04-13 09:11:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+49    2026-04-13 09:13:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+50    2026-04-13 09:13:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+51    2026-04-13 09:14:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+52    2026-04-13 09:15:59
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+D1 Len: 11621348 R: 177076 W: 250008 Time: 13-04-2026 09:15:59
+D2 Len: 6396284 R: 1348312 W: 1520132 Time: 13-04-2026 09:15:59
+D3 Len: 15805588 R: 3791136 W: 4049092 Time: 13-04-2026 09:15:59
+D4 Len: 12890496 R: 3152668 W: 3358792 Time: 13-04-2026 09:15:59
+D5 Len: 22453204 R: 1694344 W: 2229584 Time: 13-04-2026 09:15:59
+D6 Len: 16336904 R: 1629408 W: 2132412 Time: 13-04-2026 09:15:59
+D7 Len: 2376148 R: 761276 W: 776804 Time: 13-04-2026 09:15:59
+D8 Len: 26557420 R: 295624 W: 711776 Time: 13-04-2026 09:15:59
+D9 Len: 12053296 R: 2215296 W: 2400792 Time: 13-04-2026 09:15:59
+D10 Len: 13294096 R: 1708696 W: 2166680 Time: 13-04-2026 09:15:59
+D11 Len: 14933360 R: 3248940 W: 3765324 Time: 13-04-2026 09:15:59
+D12 Len: 50803992 R: 3137592 W: 3466424 Time: 13-04-2026 09:15:59
+D13 Len: 30203260 R: 2914688 W: 3126184 Time: 13-04-2026 09:15:59
+D14 Len: 38205416 R: 423980 W: 661624 Time: 13-04-2026 09:15:59
+D15 Len: 36278736 R: 1614260 W: 1818716 Time: 13-04-2026 09:15:59
+D16 Len: 30917008 R: 2932524 W: 3407532 Time: 13-04-2026 09:15:59
+D17 Len: 29495920 R: 4169940 W: 546492 Time: 13-04-2026 09:15:59
+D18 Len: 48383220 R: 3405308 W: 4004520 Time: 13-04-2026 09:15:59
+D19 Len: 29352800 R: 1297112 W: 1480684 Time: 13-04-2026 09:15:59
+D20 Len: 50442116 R: 240168 W: 742056 Time: 13-04-2026 09:15:59
+D21 Len: 19104304 R: 2893008 W: 3144372 Time: 13-04-2026 09:15:59
+D22 Len: 29356044 R: 3769600 W: 4153464 Time: 13-04-2026 09:15:59
+D23 Len: 177952984 R: 538052 W: 1241004 Time: 13-04-2026 09:15:59
+D24 Len: 26330216 R: 353664 W: 675132 Time: 13-04-2026 09:15:59
+D25 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D26 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D27 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D28 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D29 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D30 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D31 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D32 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+53    2026-04-13 09:15:59
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 0%
+Sys: 0%
+Iowait: 0%
+Soft: 0%
+Idle: 100%
+Total memory: 1130.18MB
+Free memory: 626.48MB
+Buffer: 48KB
+Cached: 0KB
+Main output: VGA(3)
+Main output status: 11
+Main output screen-division: 0
+Enable main output screensaver: 1
+Aux output: HDMI(2)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 1
+Current output: 3
+Motherboard temperature: 127
+DSP status: 
+CPU Temperature: 0
+Flash write frequency: 0
+
+
+
+----------------------------
+54    2026-04-13 09:16:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+55    2026-04-13 09:17:04
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+56    2026-04-13 09:17:04
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+57    2026-04-13 09:19:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+58    2026-04-13 09:19:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+59    2026-04-13 09:20:04
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+60    2026-04-13 09:22:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+61    2026-04-13 09:23:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+62    2026-04-13 09:23:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+63    2026-04-13 09:25:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+64    2026-04-13 09:25:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+65    2026-04-13 09:25:59
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+D1 Len: 13352976 R: 875980 W: 1020072 Time: 13-04-2026 09:25:59
+D2 Len: 6939576 R: 4127072 W: 71100 Time: 13-04-2026 09:25:59
+D3 Len: 15982000 R: 2857156 W: 3253876 Time: 13-04-2026 09:25:59
+D4 Len: 12966152 R: 3529300 W: 3742032 Time: 13-04-2026 09:25:59
+D5 Len: 30389168 R: 3036028 W: 3258624 Time: 13-04-2026 09:25:59
+D6 Len: 16152612 R: 1234120 W: 1507808 Time: 13-04-2026 09:25:59
+D7 Len: 2761464 R: 3517288 W: 3538268 Time: 13-04-2026 09:25:59
+D8 Len: 21421688 R: 1091372 W: 1161944 Time: 13-04-2026 09:25:59
+D9 Len: 11809500 R: 1440876 W: 1627380 Time: 13-04-2026 09:25:59
+D10 Len: 13660888 R: 2786300 W: 3244656 Time: 13-04-2026 09:25:59
+D11 Len: 14861068 R: 1753736 W: 1849176 Time: 13-04-2026 09:25:59
+D12 Len: 52038784 R: 664600 W: 979256 Time: 13-04-2026 09:25:59
+D13 Len: 31781844 R: 966880 W: 1353596 Time: 13-04-2026 09:25:59
+D14 Len: 35392240 R: 1936904 W: 2499432 Time: 13-04-2026 09:25:59
+D15 Len: 35696536 R: 3474828 W: 3960820 Time: 13-04-2026 09:25:59
+D16 Len: 29354672 R: 3156660 W: 3402076 Time: 13-04-2026 09:25:59
+D17 Len: 28281964 R: 3139856 W: 3662632 Time: 13-04-2026 09:25:59
+D18 Len: 36035556 R: 1574996 W: 2291340 Time: 13-04-2026 09:25:59
+D19 Len: 27975600 R: 4155844 W: 96156 Time: 13-04-2026 09:25:59
+D20 Len: 42279952 R: 697324 W: 1078968 Time: 13-04-2026 09:25:59
+D21 Len: 19878472 R: 1930012 W: 2051324 Time: 13-04-2026 09:25:59
+D22 Len: 31145004 R: 1356036 W: 1744036 Time: 13-04-2026 09:25:59
+D23 Len: 195118860 R: 2577952 W: 3421880 Time: 13-04-2026 09:25:59
+D24 Len: 31104172 R: 2080760 W: 2419176 Time: 13-04-2026 09:25:59
+D25 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D26 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D27 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D28 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D29 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D30 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D31 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D32 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+66    2026-04-13 09:25:59
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 0%
+Sys: 0%
+Iowait: 0%
+Soft: 0%
+Idle: 100%
+Total memory: 1130.18MB
+Free memory: 626.50MB
+Buffer: 68KB
+Cached: 0KB
+Main output: VGA(3)
+Main output status: 11
+Main output screen-division: 0
+Enable main output screensaver: 1
+Aux output: HDMI(2)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 1
+Current output: 3
+Motherboard temperature: 127
+DSP status: 
+CPU Temperature: 0
+Flash write frequency: 0
+
+
+
+----------------------------
+67    2026-04-13 09:26:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+68    2026-04-13 09:28:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+69    2026-04-13 09:29:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+70    2026-04-13 09:29:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+71    2026-04-13 09:31:46
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Login
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+72    2026-04-13 09:31:47
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.198
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+----------------------------
+73    2026-04-13 09:32:03
+----------------------------
+Major Type: Operation
+Minor Type: Remote Operation: Obtain Working Status
+Remote User: jbadshah
+Host IP Address: 172.16.5.239
+Parameter Type: N/A
+Camera No.: N/A
+
+
+
+
+
+
+********************** LOG  END*************************
+
+
